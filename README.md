@@ -9,13 +9,3 @@ Monte Carlo simulation was used to solve problem
 
 ### Motivation
 Out of curiosity
-
-### Requirements
-Python==3.9.2
-
-Seaborn==0.12.2
-
-Numpy=1.25.2
-
-Pandas==2.1.0
-
