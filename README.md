@@ -10,7 +10,7 @@ Monte Carlo simulation was used to solve problem
 ### Motivation
 Out of curiosity
 
-### Requisites
+### Requirements
 Python
 
 Seaborn
