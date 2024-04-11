@@ -11,11 +11,11 @@ Monte Carlo simulation was used to solve problem
 Out of curiosity
 
 ### Requirements
-Python
+Python==3.9.2
 
-Seaborn
+Seaborn==0.12.2
 
-Numpy
+Numpy=1.25.2
 
-Pandas
+Pandas==2.1.0
 
